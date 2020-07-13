@@ -10,10 +10,10 @@
 - 💻 Node.js, Javascript, TypeScript, NextJS, React Native, React.js, Delphi and **more**.
 - :books: always studying something new.
 - ⚡ Fun facts: 
-  - I like jiu jitsu and mma.
-  - I like to play video game.
-  - Watch football matches.
-  - Watch series. 
+  - I like jiu jitsu and mma :wrestling:.
+  - I like to play video game :video_game:.
+  - Watch football matches :soccer:.
+  - Watch series and draws :tv:. 
   - Beer lover 🍺.
 
 <!--
