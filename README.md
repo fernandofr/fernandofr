@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandorochaf/)](https://www.linkedin.com/in/fernandorochaf/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516991677642&text=Olá!)](https://api.whatsapp.com/send?phone=5516991677642&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandofr510@gmail.com)](mailto:fernandofr510@gmail.com)
+[![Codewars Badge](https://www.codewars.com/users/fernandofr/badges/micro)](https://www.codewars.com/users/fernandofr/badges/micro)
+
+
 - :man_technologist: **Fullstack** web developer
 - 💻 Node.js, Javascript, TypeScript, NextJS, React Native, React.js, Delphi and **more**.
 - :books: always studying something new.
