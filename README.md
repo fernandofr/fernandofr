@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- :man_technologist: **Fullstack** web developer
+- 💻 Node.js, Javascript, TypeScript, NextJS, React Native, React.js, Delphi and **more**.
+- :books: always studying something new.
+- ⚡ Fun facts: 
+  - I like jiu jitsu and mma.
+  - I like to play video game.
+  - Watch football matches.
+  - Watch series. 
+  - Beer lover 🍺.
+
 <!--
 **fernandofr/fernandofr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
